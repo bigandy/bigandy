@@ -1,6 +1,6 @@
 ### I'm Andrew Hudsons, Hi there 👋
 
-- 🔭 Out of work I’m currently working on a nextjs / raspberry pi project
+- 🔭 I’m currently working on a nextjs / raspberry pi project
 - 🌱 I’m currently learning nextjs / prisma / SQLite 
 
 <!--
