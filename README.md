@@ -1,7 +1,6 @@
 ### I'm Andrew Hudsons, Hi there 👋
 
-- 🔭 I’m currently working on a nextjs / raspberry pi project
-- 🌱 I’m currently learning nextjs / prisma / SQLite 
+- 🔭 I’m currently working Web Components November project
 
 <!--
 **bigandy/bigandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
