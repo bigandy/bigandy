@@ -1,4 +1,4 @@
-### I'm Andrew Hudsons, Hi there 👋
+### I'm Andrew Hudsons 👋
 
 - 🔭 I’m currently working on a Strava / T3 (Typescript / Next.js / Prisma / tRPC / Tailwind) project. [strava.andrewhudson.dev](https://strava.andrewhudson.dev)
 
