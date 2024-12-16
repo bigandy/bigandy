@@ -1,6 +1,8 @@
-### I'm Andrew Hudsons 👋
+### I'm Andrew Hudson 👋
 
-- 🔭 I’m currently working on a Strava / T3 (Typescript / Next.js / Prisma / tRPC / Tailwind) project. [strava.andrewhudson.dev](https://strava.andrewhudson.dev)
+- 🔭 I’m working on a Strava / T3 (Typescript / Next.js / Prisma / tRPC / Tailwind) project.
+
+I recently moved to France and am looking for a new job. I am a full-stack React developer with many years of experience.
 
 <!--
 **bigandy/bigandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
