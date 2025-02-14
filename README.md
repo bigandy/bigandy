@@ -1,8 +1,7 @@
 ### I'm Andrew Hudson 👋
 
-- 🔭 I’m working on a Strava / T3 (Typescript / Next.js / Prisma / tRPC / Tailwind) project.
-
-I recently moved to France and am looking for a new job. I am a full-stack React developer with many years of experience.
+- 🇫🇷 I recently moved to France and am looking for a new job. I am a full-stack React developer with many years of experience.
+- 🔭 I’m currently working on a Home control app with companion website / Electron App / React Native App. Technologies currently used are (Typescript / Next.js / React / Electron / React Native / Tailwind) project.
 
 <!--
 **bigandy/bigandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
